@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Joseph Daniel 👋</h1>
 
 <p align="center">
-  🎓 CS Engineering Student (2023–2027) &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 📱 React Native Dev &nbsp;|&nbsp; 📍 Chennai, India
+  🎓 CS Engineering Student (2023–2027) &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 📱 React Native Developer
 </p>
 
 ---
@@ -83,9 +83,9 @@
 <td width="50%" valign="top">
 
 ### AtCoder
-[![AtCoder Stats](https://atcoder-badge.vercel.app/api?id=josephdaniel8805)](https://atcoder.jp/users/josephdaniel8805)
+[![AtCoder](https://img.shields.io/badge/AtCoder-Profile-1F8ACB?style=for-the-badge)](https://atcoder.jp/users/josephdaniel8805)
 
-### Coding Profiles
+### Competitive Programming Profiles
 [![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logoColor=white)](https://codolio.com/profile/josephdaniel8805)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JosephDaniel8805)
 [![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logoColor=white)](https://atcoder.jp/users/josephdaniel8805)
