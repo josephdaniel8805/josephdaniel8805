@@ -70,35 +70,28 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/JosephDaniel8805?theme=dark&font=Baloo&ext=heatmap)
 
-### Codeforces
+### AtCoder
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=josephdaniel8805)](https://codeforces.com/profile/josephdaniel8805)
+[![AtCoder Stats](https://atcoder-badge.vercel.app/api?id=josephdaniel8805)](https://atcoder.jp/users/josephdaniel8805)
 
----
+### Coding Profiles
 
-## 📊 GitHub Statistics
-
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephdaniel8805&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=josephdaniel8805)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephdaniel8805&layout=compact)
-
+- Codolio: https://codolio.com/profile/josephdaniel8805
+- LeetCode: https://leetcode.com/u/JosephDaniel8805
+- AtCoder: https://atcoder.jp/users/josephdaniel8805
+- Codeforces: https://codeforces.com/profile/josephdaniel8805
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/joseph-daniel-h-372345292
-- GitHub: github.com/josephdaniel8805
-- LeetCode: leetcode.com/u/JosephDaniel8805
-- Codeforces: codeforces.com/profile/josephdaniel8805
-- AtCoder: atcoder.jp/users/josephdaniel8805
+* LinkedIn: https://linkedin.com/in/joseph-daniel-h-372345292
+* GitHub: https://github.com/josephdaniel8805
 
 ---
 
 ### 📫 Contact
 
-- Email: josephdaniel8805@gmail.com
+* Email: [josephdaniel8805@gmail.com](mailto:josephdaniel8805@gmail.com)
 
 ---
 
