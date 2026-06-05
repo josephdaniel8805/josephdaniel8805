@@ -73,6 +73,7 @@
 ### AtCoder
 
 [![AtCoder Stats](https://atcoder-badge.vercel.app/api?id=josephdaniel8805)](https://atcoder.jp/users/josephdaniel8805)
+![AtCoder Rating](https://img.shields.io/badge/AtCoder-Profile-blue)
 
 ### Coding Profiles
 
